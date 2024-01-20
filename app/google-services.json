@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "329226041691",
+    "project_id": "multipro-7b13d",
+    "storage_bucket": "multipro-7b13d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329226041691:android:1395ab5d2b4aabb817427e",
+        "android_client_info": {
+          "package_name": "com.chris.aguayo.multipro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByZis-tue6DfQlqhxSVCL20mrtm5YmFZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329226041691:android:ae058990c3c2d6c117427e",
+        "android_client_info": {
+          "package_name": "com.chris.aguayo.multipro.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByZis-tue6DfQlqhxSVCL20mrtm5YmFZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
